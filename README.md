@@ -2,7 +2,7 @@
 ### I'm Ali, Front End Developer
 
 * :zap: I’m currently working at [Blockmate](https://www.blockmate.io/)
-* :ocean: I’m currently learning TypeScript
+* :ocean: I’m currently learning [TypeScript](https://www.typescriptlang.org/)
 * 📫 How to reach me: [@alinurmamatov](https://www.linkedin.com/in/alisherjon-nurmamatov/)
 
 
