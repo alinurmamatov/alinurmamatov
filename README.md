@@ -2,7 +2,7 @@
 ### I'm Ali, Front End Developer
 
 * :zap: 
-* :ocean: I’m currently learning [Angular](https://angular.io/)
+* :ocean: I’m currently learning [NextJS](https://nextjs.org/)
 * 📫 How to reach me: [@alinurmamatov](https://www.linkedin.com/in/alisherjon-nurmamatov/)
 
 
