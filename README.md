@@ -1,5 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-### I'm Ali, Front End Developer:zap:
+### I'm Ali, Front End Developer :zap:
 
 * :zap: I'm currently working at [Jafton](https://www.jafton.com/)
 * :dizzy: Lifelong learner / researcher
