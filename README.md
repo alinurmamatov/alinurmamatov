@@ -1,10 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-### I'm Ali, Front End Developer (becoming a Full stack developer) :zap:
+### I'm Ali, Software Engineer (JS | TS | ReactJS | NextJS | NodeJS) :zap:
 
-* :zap: I'm currently working at [Jafton](https://www.jafton.com/)
 * :dizzy: Lifelong learner / researcher
-* 📚 Currently learning backend - NodeJS, MongoDB, GraphQL, SQL and NoSQL, and more...
-* 📫 How to reach me: [@alinurmamatov](https://www.linkedin.com/in/alisherjon-nurmamatov/)
+* :calling: How to reach me: [@alinurmamatov](https://www.linkedin.com/in/alisherjon-nurmamatov/)
 
 
 ### Languages and Tools
