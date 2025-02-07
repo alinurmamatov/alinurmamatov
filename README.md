@@ -8,7 +8,7 @@ A versatile Front-End Engineer (becoming a Full-Stack Engineer) with 4+ years of
 
 * 🌍  I'm based in Tashkent, Uzbekistan
 * ✉️  You can contact me at [alinurmamatov11@gmail.com](mailto:alinurmamatov11@gmail.com)
-* 🧠  I'm learning NodeJS and ExpressJS
+* 🧠  I'm currently learning NodeJS and ExpressJS to become a Full-Stack Engineer
 
 ### Skills
 
