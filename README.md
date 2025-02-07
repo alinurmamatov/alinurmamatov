@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alisherjon Nurmamatov
 =============================================================================================================================================
 
-Software Engineer (JS | TS | ReactJS | NextJS | NodeJS) ⚡
+Front-End Engineer (JS | TS | ReactJS | NextJS | NodeJS) ⚡
 ---------------------------------------------------------
 
 A versatile Front-End Engineer (becoming a Full-Stack Engineer) with 4+ years of experience building modern, scalable, and high-performance web applications. Proficient in React.js, Next.js, TypeScript, Redux Toolkit, and Tailwind CSS, with a strong focus on performance optimization, maintainability, and UI/UX patterns. Passionate about clean architecture, component-driven development, and Agile methodologies. Skilled in internationalization (i18n), payments (Stripe), and modular UI design. Always eager to learn, innovate, and contribute to impactful projects. 🚀 💫 Lifelong learner / researcher 📲 How to reach me: @alinurmamatov
