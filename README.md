@@ -14,7 +14,7 @@
      <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" />
-     <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass-css" width="40" />
+     <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="scss" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" /> 
     <img src="https://images.wondershare.com/mockitt/ui-design/material-ui-introduction.jpg" alt="material-ui" width="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" /> 
