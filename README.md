@@ -1,14 +1,14 @@
 Hi 👋 My name is Alisherjon Nurmamatov
 =============================================================================================================================================
 
-Front-End Engineer (JS | TS | ReactJS | NextJS | Vue | Nuxt | NodeJS) ⚡
+Full-stack Engineer (JS | TS | React | Next | Vue | Nuxt | NodeJS | Express) ⚡
 ---------------------------------------------------------
 
 A versatile Full-Stack Engineer with 4+ years of experience building modern, scalable, and high-performance web applications. Proficient in ReactJS/NextJS, VueJS/NuxtJS, JavaScript/TypeScript, NodeJS/ExpressJS, Redux Toolkit, and Tailwind CSS, with a strong focus on performance optimization, maintainability, and UI/UX patterns. Passionate about clean architecture, component-driven development, and Agile methodologies. Skilled in internationalization (i18n), payments (Stripe), and modular UI design. Always eager to learn, innovate, and contribute to impactful projects.🚀
 
 * 🌍  I'm based in Tashkent, Uzbekistan
 * ✉️  You can contact me at [alinurmamatov11@gmail.com](mailto:alinurmamatov11@gmail.com)
-* 🧠  I'm currently learning NodeJS and ExpressJS to become a Full-Stack Engineer
+* 🧠  I'm currently learning NestJS
 
 ### Skills
 
